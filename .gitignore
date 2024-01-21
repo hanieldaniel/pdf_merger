@@ -1,5 +1,4 @@
 /target
-input
 
 # By Default, Ignore any .*, except .gitignore
 .*
